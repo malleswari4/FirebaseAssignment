@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FirebaseAssignment</string>
+    <string-array name="branch">
+        <item>Select your branch</item>
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>Mech</item>
+        <item>Civil</item>
+        <item>EEE</item>
+    </string-array>
+    <string-array name="year">
+        <item>Choose your year</item>
+        <item>E1</item>
+        <item>E2</item>
+        <item>E3</item>
+        <item>E4</item>
+    </string-array>
+</resources>
